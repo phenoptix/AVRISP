@@ -1,0 +1,177 @@
+EESchema Schematic File Version 2  date 14/08/2013 16:43:52
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:arduino_shieldsNCL
+EELAYER 25  0
+EELAYER END
+$Descr A4 11700 8267
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "14 aug 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	6400 3450 6500 3450
+Wire Wire Line
+	6500 3450 6500 3850
+Wire Wire Line
+	6500 3850 7300 3850
+Wire Wire Line
+	7300 3850 7300 3700
+Wire Wire Line
+	6650 3700 6550 3700
+Wire Wire Line
+	6550 3700 6550 3150
+Wire Wire Line
+	6550 3150 6400 3150
+Wire Wire Line
+	6950 3200 6950 3100
+Wire Wire Line
+	6650 3100 6650 3200
+Wire Wire Line
+	7250 3100 7250 3200
+Wire Wire Line
+	4500 3550 4200 3550
+Wire Wire Line
+	4200 3550 4200 4650
+Wire Wire Line
+	4200 4650 6950 4650
+Wire Wire Line
+	6950 4650 6950 3700
+$Comp
+L R R?
+U 1 1 520B9F41
+P 7250 3450
+F 0 "R?" V 7330 3450 50  0000 C CNN
+F 1 "R" V 7250 3450 50  0000 C CNN
+	1    7250 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 520B9F3D
+P 6950 3450
+F 0 "R?" V 7030 3450 50  0000 C CNN
+F 1 "R" V 6950 3450 50  0000 C CNN
+	1    6950 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R?
+U 1 1 520B9F37
+P 6650 3450
+F 0 "R?" V 6730 3450 50  0000 C CNN
+F 1 "R" V 6650 3450 50  0000 C CNN
+	1    6650 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED D?
+U 1 1 520B9F21
+P 7250 2900
+F 0 "D?" H 7250 3000 50  0000 C CNN
+F 1 "LED" H 7250 2800 50  0000 C CNN
+	1    7250 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D?
+U 1 1 520B9F1D
+P 6950 2900
+F 0 "D?" H 6950 3000 50  0000 C CNN
+F 1 "LED" H 6950 2800 50  0000 C CNN
+	1    6950 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D?
+U 1 1 520B9F15
+P 6650 2900
+F 0 "D?" H 6650 3000 50  0000 C CNN
+F 1 "LED" H 6650 2800 50  0000 C CNN
+	1    6650 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L DPST SW?
+U 1 1 520B9E6D
+P 10300 2100
+F 0 "SW?" H 10300 2200 70  0000 C CNN
+F 1 "DPST" H 10300 2000 70  0000 C CNN
+	1    10300 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L AVR-ISP-6 CON?
+U 1 1 520B9E4A
+P 7800 5200
+F 0 "CON?" H 7720 5440 50  0000 C CNN
+F 1 "AVR-ISP-6" H 7560 4970 50  0000 L BNN
+F 2 "AVR-ISP-6" V 7280 5240 50  0001 C CNN
+	1    7800 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L ATMEGA328-P IC?
+U 1 1 520B9E38
+P 8300 3250
+F 0 "IC?" H 7600 4500 50  0000 L BNN
+F 1 "ATMEGA328-P" H 8550 1850 50  0000 L BNN
+F 2 "DIL28" H 7700 1900 50  0001 C CNN
+	1    8300 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ATTINY85-M IC?
+U 1 1 520B9E29
+P 7700 800
+F 0 "IC?" H 7800 850 60  0000 C CNN
+F 1 "ATTINY85-M" H 9700 50  60  0000 C CNN
+F 2 "QFN/MLF20" H 8000 50  60  0001 C CNN
+	1    7700 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L ARDUINO_SHIELD SHIELD?
+U 1 1 520B9D75
+P 5450 3250
+F 0 "SHIELD?" H 5100 4200 60  0000 C CNN
+F 1 "ARDUINO_SHIELD" H 5500 2300 60  0000 C CNN
+	1    5450 3250
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
