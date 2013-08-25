@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 25/08/2013 21:04:07
+EESchema Schematic File Version 2  date 25/08/2013 21:33:02
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -45,6 +45,16 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L ATTINY85-S IC3
+U 1 1 521A67A5
+P 7800 2050
+F 0 "IC3" H 7900 2100 60  0000 C CNN
+F 1 "ATTINY85-S" H 9800 1300 60  0000 C CNN
+F 2 "SO8-200" H 8050 1300 60  0001 C CNN
+	1    7800 2050
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	4975 5950 4675 5950
 Wire Wire Line
@@ -439,16 +449,6 @@ F 0 "IC1" H 8750 5850 50  0000 L BNN
 F 1 "ATMEGA328-P" H 9700 3200 50  0000 L BNN
 F 2 "DIL28" H 8850 3250 50  0001 C CNN
 	1    9450 4600
-	1    0    0    -1  
-$EndComp
-$Comp
-L ATTINY85-M IC3
-U 1 1 520B9E29
-P 7800 2050
-F 0 "IC3" H 7900 2100 60  0000 C CNN
-F 1 "ATTINY85-M" H 9800 1300 60  0000 C CNN
-F 2 "QFN/MLF20" H 8100 1300 60  0001 C CNN
-	1    7800 2050
 	1    0    0    -1  
 $EndComp
 $Comp

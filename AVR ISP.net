@@ -1,0 +1,275 @@
+# EESchema Netlist Version 1.1 created  25/08/2013 21:48:24
+(
+ ( /521A67A5 SO8-200  IC3 ATTINY85-S {Lib=ATTINY85-S}
+  (    1 N-000079 )
+  (    2 ? )
+  (    3 ? )
+  (    4 GND )
+  (    5 N-000077 )
+  (    6 N-000044 )
+  (    7 N-000078 )
+  (    8 +5V )
+ )
+ ( /521A5A1E SO20  IC4 ATTINY2313-S {Lib=ATTINY2313-S}
+  (    1 N-000079 )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+  (    9 ? )
+  (   10 GND )
+  (   11 ? )
+  (   12 ? )
+  (   13 ? )
+  (   14 ? )
+  (   15 ? )
+  (   16 ? )
+  (   17 N-000077 )
+  (   18 N-000044 )
+  (   19 N-000078 )
+  (   20 +5V )
+ )
+ ( /521A57EA DIP20  IC2 ATTINY2313-P {Lib=ATTINY2313-P}
+  (    1 N-000079 )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+  (    9 ? )
+  (   10 GND )
+  (   11 ? )
+  (   12 ? )
+  (   13 ? )
+  (   14 ? )
+  (   15 ? )
+  (   16 ? )
+  (   17 N-000077 )
+  (   18 N-000044 )
+  (   19 N-000078 )
+  (   20 +5V )
+ )
+ ( /520B9F41 $noname  R3 R {Lib=R}
+  (    1 N-000017 )
+  (    2 N-000074 )
+ )
+ ( /520B9F3D $noname  R2 R {Lib=R}
+  (    1 N-000018 )
+  (    2 N-000043 )
+ )
+ ( /520B9F37 $noname  R1 R {Lib=R}
+  (    1 N-000019 )
+  (    2 N-000016 )
+ )
+ ( /520B9F21 $noname  D3 LED {Lib=LED}
+  (    1 N-000017 )
+  (    2 GND )
+ )
+ ( /520B9F1D $noname  D2 LED {Lib=LED}
+  (    1 N-000018 )
+  (    2 GND )
+ )
+ ( /520B9F15 $noname  D1 LED {Lib=LED}
+  (    1 N-000019 )
+  (    2 GND )
+ )
+ ( /520B9E4A AVR-ISP-6  CON1 AVR-ISP-6 {Lib=AVR-ISP-6}
+  (    1 N-000044 )
+  (    2 +5V )
+  (    3 N-000078 )
+  (    4 N-000077 )
+  (    5 N-000079 )
+  (    6 GND )
+ )
+ ( /520B9E38 DIL28  IC1 ATMEGA328-P {Lib=ATMEGA328-P}
+  (    1 N-000079 )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (    6 ? )
+  (    7 +5V )
+  (    8 GND )
+  (    9 ? )
+  (   10 ? )
+  (   11 ? )
+  (   12 ? )
+  (   13 ? )
+  (   14 ? )
+  (   15 ? )
+  (   16 ? )
+  (   17 N-000077 )
+  (   18 N-000044 )
+  (   19 N-000078 )
+  (   20 +5V )
+  (   21 ? )
+  (   22 GND )
+  (   23 ? )
+  (   24 ? )
+  (   25 ? )
+  (   26 ? )
+  (   27 ? )
+  (   28 ? )
+ )
+ ( /520B9D75 $noname  SHIELD1 ARDUINO_SHIELD {Lib=ARDUINO_SHIELD}
+  (    0 ? )
+  (    1 ? )
+  (    2 ? )
+  (    3 ? )
+  (    4 ? )
+  (    5 ? )
+  (   5V +5V )
+  (    6 ? )
+  (    7 N-000074 )
+  (    8 N-000043 )
+  (    9 N-000016 )
+  (   10 N-000079 )
+  (   11 N-000077 )
+  (   12 N-000044 )
+  (   13 N-000078 )
+  (  3V3 ? )
+  (  AD0 ? )
+  (  AD1 ? )
+  (  AD2 ? )
+  (  AD3 ? )
+  (  AD4 ? )
+  (  AD5 ? )
+  ( AREF ? )
+  ( GND1 GND )
+  ( GND2 GND )
+  ( GND3 GND )
+  (  RST ? )
+  ( V_IN ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component IC1
+ 28DIP-ELL600
+ 28dip600
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 10 "+5V" "+5V"
+ IC4 20
+ IC3 8
+ CON1 2
+ IC1 20
+ SHIELD1 5V
+ IC1 7
+ IC2 20
+Net 16 "" ""
+ SHIELD1 9
+ R1 2
+Net 17 "" ""
+ R3 1
+ D3 1
+Net 18 "" ""
+ D2 1
+ R2 1
+Net 19 "" ""
+ D1 1
+ R1 1
+Net 21 "GND" "GND"
+ IC1 8
+ IC1 22
+ CON1 6
+ D3 2
+ SHIELD1 GND3
+ SHIELD1 GND2
+ SHIELD1 GND1
+ IC3 4
+ IC2 10
+ D1 2
+ D2 2
+ IC4 10
+Net 43 "" ""
+ SHIELD1 8
+ R2 2
+Net 44 "" ""
+ IC4 18
+ IC3 6
+ CON1 1
+ IC2 18
+ IC1 18
+ SHIELD1 12
+Net 74 "" ""
+ SHIELD1 7
+ R3 2
+Net 77 "" ""
+ IC3 5
+ SHIELD1 11
+ CON1 4
+ IC2 17
+ IC1 17
+ IC4 17
+Net 78 "" ""
+ IC1 19
+ SHIELD1 13
+ IC4 19
+ IC2 19
+ IC3 7
+ CON1 3
+Net 79 "" ""
+ IC1 1
+ SHIELD1 10
+ CON1 5
+ IC4 1
+ IC2 1
+ IC3 1
+}
+#End
