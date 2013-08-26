@@ -1,10 +1,17 @@
-Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 25/08/2013 21:21:30
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 26/08/2013 08:43:16
 
 BeginCmp
 TimeStamp = /520B9E4A;
 Reference = CON1;
 ValeurCmp = AVR-ISP-6;
 IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /521AF86D;
+Reference = CON2;
+ValeurCmp = AVR-ISP-10;
+IdModule  = PIN_ARRAY_5x2;
 EndCmp
 
 BeginCmp
@@ -43,17 +50,10 @@ IdModule  = DIP-20__300_ELL;
 EndCmp
 
 BeginCmp
-TimeStamp = /520B9E29;
+TimeStamp = /521A67A5;
 Reference = IC3;
-ValeurCmp = ATTINY85-M;
+ValeurCmp = ATTINY85-S;
 IdModule  = DIP-8__300_ELL;
-EndCmp
-
-BeginCmp
-TimeStamp = /521A5A1E;
-Reference = IC4;
-ValeurCmp = ATTINY2313-S;
-IdModule  = SO20;
 EndCmp
 
 BeginCmp
@@ -82,6 +82,13 @@ TimeStamp = /520B9D75;
 Reference = SHIELD1;
 ValeurCmp = ARDUINO_SHIELD;
 IdModule  = ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /521A5A1E;
+Reference = Test;
+ValeurCmp = IC4;
+IdModule  = SOIC20 Test;
 EndCmp
 
 EndListe

@@ -1,13 +1,14 @@
-eeschema (2012-01-19 BZR 3256)-stable  >> Creation date: 25/08/2013 20:48:58
+eeschema (2012-01-19 BZR 3256)-stable  >> Creation date: 26/08/2013 07:43:53
 
 #Cmp ( order = Reference )
 | CON1       AVR-ISP-6   
+| CON2       AVR-ISP-10  
 | D1         LED         
 | D2         LED         
 | D3         LED         
 | IC1        ATMEGA328-P 
 | IC2        ATTINY2313-P
-| IC3        ATTINY85-M  
+| IC3        ATTINY85-S  
 | IC4        ATTINY2313-S
 | R1         R           
 | R2         R           
@@ -20,7 +21,8 @@ eeschema (2012-01-19 BZR 3256)-stable  >> Creation date: 25/08/2013 20:48:58
 | ATMEGA328-P  IC1       
 | ATTINY2313-P IC2       
 | ATTINY2313-S IC4       
-| ATTINY85-M   IC3       
+| ATTINY85-S   IC3       
+| AVR-ISP-10   CON2      
 | AVR-ISP-6    CON1      
 | LED          D1        
 | LED          D2        

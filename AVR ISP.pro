@@ -1,35 +1,5 @@
-update=25/08/2013 21:05:30
+update=26/08/2013 08:40:04
 last_client=cvpcb
-[pcbnew]
-version=1
-PadDrlX=320
-PadDimH=600
-PadDimV=600
-BoardThickness=630
-TxtPcbV=800
-TxtPcbH=600
-TxtModV=600
-TxtModH=600
-TxtModW=120
-VEgarde=100
-DrawLar=150
-EdgeLar=150
-TxtLar=120
-MSegLar=150
-LastNetListRead=AVR ISP.net
-[pcbnew/libraries]
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=libcms
-LibName7=display
-LibName8=valves
-LibName9=led
-LibName10=dip_sockets
-LibName11=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shields
-LibDir=
 [eeschema]
 version=1
 LibDir=../Custom Kicad Modules
@@ -95,6 +65,37 @@ LibName30=valves
 LibName31=H:/Users/phenoptix/Documents/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shieldsNCL
 LibName32=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shieldsNCL
 LibName33=arduino_shieldsNCL
+[pcbnew]
+version=1
+PadDrlX=320
+PadDimH=600
+PadDimV=600
+BoardThickness=630
+TxtPcbV=800
+TxtPcbH=600
+TxtModV=600
+TxtModH=600
+TxtModW=120
+VEgarde=100
+DrawLar=150
+EdgeLar=150
+TxtLar=120
+MSegLar=150
+LastNetListRead=AVR ISP.net
+[pcbnew/libraries]
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=libcms
+LibName7=display
+LibName8=valves
+LibName9=led
+LibName10=dip_sockets
+LibName11=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shields
+LibName12=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/phenoptix
+LibDir=
 [cvpcb]
 version=1
 NetIExt=net
