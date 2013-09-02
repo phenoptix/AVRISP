@@ -1,5 +1,5 @@
-update=26/08/2013 08:40:04
-last_client=cvpcb
+update=02/09/2013 11:36:23
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=../Custom Kicad Modules
@@ -65,11 +65,16 @@ LibName30=valves
 LibName31=H:/Users/phenoptix/Documents/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shieldsNCL
 LibName32=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shieldsNCL
 LibName33=arduino_shieldsNCL
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 PadDrlX=320
-PadDimH=600
-PadDimV=600
+PadDimH=660
+PadDimV=660
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600
@@ -83,6 +88,7 @@ TxtLar=120
 MSegLar=150
 LastNetListRead=AVR ISP.net
 [pcbnew/libraries]
+LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -95,9 +101,6 @@ LibName9=led
 LibName10=dip_sockets
 LibName11=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shields
 LibName12=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/phenoptix
-LibDir=
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+LibName13=1p2LogoMaskBack
+LibName14=1p5LogoMaskBack
+LibName15=2p0LogoMaskBack
