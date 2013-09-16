@@ -1,4 +1,4 @@
-update=02/09/2013 11:36:23
+update=04/09/2013 12:07:43
 last_client=pcbnew
 [eeschema]
 version=1
@@ -72,9 +72,9 @@ NetIExt=net
 EquName1=devcms
 [pcbnew]
 version=1
-PadDrlX=320
-PadDimH=660
-PadDimV=660
+PadDrlX=0
+PadDimH=181
+PadDimV=1969
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600
@@ -85,7 +85,7 @@ VEgarde=100
 DrawLar=150
 EdgeLar=150
 TxtLar=120
-MSegLar=150
+MSegLar=79
 LastNetListRead=AVR ISP.net
 [pcbnew/libraries]
 LibDir=
@@ -101,6 +101,5 @@ LibName9=led
 LibName10=dip_sockets
 LibName11=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shields
 LibName12=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/phenoptix
-LibName13=1p2LogoMaskBack
-LibName14=1p5LogoMaskBack
-LibName15=2p0LogoMaskBack
+LibName13=H:/Users/phenoptix/Documents/Dropbox/Projects and WIPs/PCB Projects/KicadLibs/phenoptix
+LibName14=H:/Users/phenoptix/Documents/Dropbox/Projects and WIPs/PCB Projects/KiCad Logos/logoBigBackSilk (1)

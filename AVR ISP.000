@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 PCBNEW-BOARD Version 1 date 02/09/2013 11:18:34
 =======
 PCBNEW-BOARD Version 1 date 26/08/2013 08:47:19
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+PCBNEW-BOARD Version 1 date 26/08/2013 08:47:19
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 
 # Created by Pcbnew(2012-01-19 BZR 3256)-stable
 
@@ -12,18 +16,24 @@ LayerCount 2
 Ly 1FFF8001
 EnabledLayers 1FFF8001
 <<<<<<< HEAD
+<<<<<<< HEAD
 Links 53
 NoConn 2
 Di 29674 17040 61116 40251
 Ndraw 1
 Ntrack 136
 =======
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Links 52
 NoConn 27
 Di 29674 17040 57751 40251
 Ndraw 0
 Ntrack 97
+<<<<<<< HEAD
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Nzone 0
 BoardThickness 630
 Nmodule 13
@@ -34,10 +44,14 @@ $SHEETDESCR
 Sheet A4 11700 8267
 Title ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 Date "2 sep 2013"
 =======
 Date "26 aug 2013"
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Date "26 aug 2013"
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Rev ""
 Comp ""
 Comment1 ""
@@ -72,12 +86,17 @@ EdgeModWidth 150
 TextModSize 600 600
 TextModWidth 120
 <<<<<<< HEAD
+<<<<<<< HEAD
 PadSize 660 660
 PadDrill 320
 =======
 PadSize 181 1969
 PadDrill 0
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+PadSize 181 1969
+PadDrill 0
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Pad2MaskClearance 100
 AuxiliaryAxisOrg 0 0
 PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
@@ -304,7 +323,10 @@ Dr 320 0 0
 At STD N 00FCFFFF
 =======
 At STD N 00A8FFFF
+<<<<<<< HEAD
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Ne 12 "N-000066"
 Po -500 0
 $EndPAD
@@ -348,7 +370,10 @@ Dr 320 0 0
 At STD N 00ECFFFF
 =======
 At STD N 00A8FFFF
+<<<<<<< HEAD
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Ne 9 "N-000063"
 Po -500 0
 $EndPAD
@@ -392,7 +417,10 @@ Dr 320 0 0
 At STD N 00ECFFFF
 =======
 At STD N 00A8FFFF
+<<<<<<< HEAD
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Ne 10 "N-000064"
 Po -500 0
 $EndPAD
@@ -976,6 +1004,9 @@ Dr 320 0 0
 At STD N 00E0FFFF
 Ne 6 "N-000030"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Po 4500 -1500
 =======
 Po -1500 -1500
@@ -987,6 +1018,9 @@ Dr 320 0 0
 At STD N 00E0FFFF
 Ne 3 "N-000005"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Po 3500 -1500
 =======
 Po -2500 -1500
@@ -998,6 +1032,9 @@ Dr 320 0 0
 At STD N 00E0FFFF
 Ne 5 "N-000029"
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Po 2500 -1500
 =======
 Po -3500 -1500
@@ -1482,10 +1519,14 @@ $EndPAD
 $EndMODULE  ARDUINO_SHIELD
 $MODULE pin_array_3x2
 <<<<<<< HEAD
+<<<<<<< HEAD
 Po 40250 33750 2700 15 521BBC63 521A6761 ~~
 =======
 Po 38250 34500 0 15 42931587 521A6761 ~~
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Po 38250 34500 0 15 42931587 521A6761 ~~
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Li pin_array_3x2
 Cd Double rangee de contacts 2 x 4 pins
 Kw CONN
@@ -1549,10 +1590,14 @@ $EndSHAPE3D
 $EndMODULE  pin_array_3x2
 $MODULE PIN_ARRAY_5x2
 <<<<<<< HEAD
+<<<<<<< HEAD
 Po 45500 30500 2700 15 521BBC76 521B0679 ~~
 =======
 Po 46000 34250 900 15 3FCF2109 521B0679 ~~
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Po 46000 34250 900 15 3FCF2109 521B0679 ~~
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Li PIN_ARRAY_5x2
 Cd Double rangee de contacts 2 x 5 pins
 Kw CONN
@@ -1560,22 +1605,31 @@ Sc 521B0679
 AR /521AF86D
 Op 0 0 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 T0 250 -1500 400 400 2700 80 N V 21 N ""
 T1 0 1500 400 400 2700 80 N I 21 N "AVR-ISP-10"
 =======
 T0 250 -1500 400 400 900 80 N V 21 N "CON2"
 T1 0 -1500 400 400 900 80 N I 21 N "AVR-ISP-10"
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+T0 250 -1500 400 400 900 80 N V 21 N "CON2"
+T1 0 -1500 400 400 900 80 N I 21 N "AVR-ISP-10"
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 DS -2500 -1000 2500 -1000 120 21
 DS 2500 -1000 2500 1000 120 21
 DS 2500 1000 -2500 1000 120 21
 DS -2500 1000 -2500 -1000 120 21
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "1" R 600 600 0 0 2700
 =======
 Sh "1" R 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "1" R 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 6 "N-000030"
@@ -1583,10 +1637,14 @@ Po -2000 500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "2" C 600 600 0 0 2700
 =======
 Sh "2" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "2" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 1 "+5V"
@@ -1594,10 +1652,14 @@ Po -2000 -500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "3" C 600 600 0 0 2700
 =======
 Sh "3" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "3" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 0 ""
@@ -1605,10 +1667,14 @@ Po -1000 500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "4" C 600 600 0 0 2700
 =======
 Sh "4" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "4" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 2 "GND"
@@ -1616,10 +1682,14 @@ Po -1000 -500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "5" C 600 600 0 0 2700
 =======
 Sh "5" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "5" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 7 "N-000037"
@@ -1627,10 +1697,14 @@ Po 0 500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "6" C 600 600 0 0 2700
 =======
 Sh "6" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "6" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 2 "GND"
@@ -1638,10 +1712,14 @@ Po 0 -500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "7" C 600 600 0 0 2700
 =======
 Sh "7" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "7" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 5 "N-000029"
@@ -1649,10 +1727,14 @@ Po 1000 500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "8" C 600 600 0 0 2700
 =======
 Sh "8" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "8" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 2 "GND"
@@ -1660,10 +1742,14 @@ Po 1000 -500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "9" C 600 600 0 0 2700
 =======
 Sh "9" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "9" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 3 "N-000005"
@@ -1671,10 +1757,14 @@ Po 2000 500
 $EndPAD
 $PAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sh "10" C 600 600 0 0 2700
 =======
 Sh "10" C 600 600 0 0 900
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+Sh "10" C 600 600 0 0 900
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Dr 400 0 0
 At STD N 00E0FFFF
 Ne 2 "GND"
@@ -1687,6 +1777,7 @@ Of 0.000000 0.000000 0.000000
 Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
 $EndMODULE  PIN_ARRAY_5x2
+<<<<<<< HEAD
 <<<<<<< HEAD
 $TEXTPCB
 Te "AVR ISP Shield v1.0"
@@ -1705,6 +1796,8 @@ De 0 0 1 0 0
 Po 0 40500 22700 40500 22000 80 -1
 De 15 0 1 0 800000
 =======
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 $MODULE SOIC20
 Po 52000 34000 0 15 521B0563 521B071F ~~
 Li SOIC20
@@ -1883,11 +1976,15 @@ Po 0 33000 34000 32000 33000 80 -1
 De 0 0 1 0 800000
 Po 0 34250 22750 39750 22750 80 -1
 De 0 0 1 0 0
+<<<<<<< HEAD
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Po 0 39750 22750 40500 22000 80 -1
 De 0 0 1 0 800000
 Po 0 32500 27500 33000 27000 80 -1
 De 0 0 1 0 400000
+<<<<<<< HEAD
 <<<<<<< HEAD
 Po 0 33000 24000 34250 22750 80 -1
 De 0 0 1 0 0
@@ -2266,12 +2363,157 @@ Po 0 31250 35250 32000 36000 80 -1
 De 0 0 7 0 800000
 Po 0 32000 30500 32500 30500 80 -1
 De 0 0 7 0 800000
+=======
+Po 0 33000 32000 33000 30000 80 -1
+De 0 0 1 0 0
+Po 0 33000 30000 32500 29500 80 -1
+De 0 0 1 0 0
+Po 0 40900 20100 39750 21250 80 -1
+De 0 0 2 0 0
+Po 0 40900 20000 40900 20100 80 -1
+De 0 0 2 0 400000
+Po 0 39750 21250 39250 21250 80 -1
+De 0 0 2 0 0
+Po 0 39250 21250 38500 22000 80 -1
+De 0 0 2 0 800000
+Po 0 35000 27000 34500 27500 80 -1
+De 0 0 3 0 800000
+Po 0 36000 23250 35000 24250 80 -1
+De 0 0 3 0 0
+Po 0 35000 24250 35000 27000 80 -1
+De 0 0 3 0 0
+Po 0 42900 21600 42500 22000 80 -1
+De 0 0 3 0 800000
+Po 0 36000 35000 34000 33000 80 -1
+De 0 0 3 0 800000
+Po 0 37250 35000 36000 35000 80 -1
+De 0 0 3 0 400000
+Po 0 42500 22500 41750 23250 80 -1
+De 0 0 3 0 0
+Po 0 35000 32000 34000 33000 80 -1
+De 0 0 3 0 800000
+Po 0 42900 20000 42900 21600 80 -1
+De 0 0 3 0 400000
+Po 0 35000 30000 35000 32000 80 -1
+De 0 0 3 0 0
+Po 0 42500 22000 42500 22500 80 -1
+De 0 0 3 0 400000
+Po 0 34500 29500 35000 30000 80 -1
+De 0 0 3 0 0
+Po 0 41750 23250 36000 23250 80 -1
+De 0 0 3 0 0
+Po 0 34500 27500 34500 29500 80 -1
+De 0 0 3 0 400000
+Po 0 48500 20500 49500 21500 80 -1
+De 0 0 4 0 0
+Po 0 49500 21500 51500 21500 80 -1
+De 0 0 4 0 800000
+Po 0 48500 20000 48500 20500 80 -1
+De 0 0 4 0 400000
+Po 0 37750 35500 36000 35500 80 -1
+De 0 0 5 0 0
+Po 0 34000 32000 33000 33000 80 -1
+De 0 0 5 0 800000
+Po 0 33500 27500 33500 29500 80 -1
+De 0 0 5 0 400000
+Po 0 41500 22250 40750 23000 80 -1
+De 0 0 5 0 0
+Po 0 38250 35000 37750 35500 80 -1
+De 0 0 5 0 400000
+Po 0 35000 23000 34000 24000 80 -1
+De 0 0 5 0 0
+Po 0 34250 33750 33750 33750 80 -1
+De 0 0 5 0 0
+Po 0 41900 20000 41900 21600 80 -1
+De 0 0 5 0 400000
+Po 0 40750 23000 35000 23000 80 -1
+De 0 0 5 0 0
+Po 0 34000 24000 34000 27000 80 -1
+De 0 0 5 0 0
+Po 0 36000 35500 34250 33750 80 -1
+De 0 0 5 0 0
+Po 0 41900 21600 41500 22000 80 -1
+De 0 0 5 0 800000
+Po 0 33750 33750 33000 33000 80 -1
+De 0 0 5 0 800000
+Po 0 41500 22000 41500 22250 80 -1
+De 0 0 5 0 400000
+Po 0 34000 30000 34000 32000 80 -1
+De 0 0 5 0 0
+Po 0 33500 29500 34000 30000 80 -1
+De 0 0 5 0 0
+Po 0 34000 27000 33500 27500 80 -1
+De 0 0 5 0 800000
+Po 0 43900 20000 43900 21600 80 -1
+De 0 0 6 0 400000
+Po 0 43500 22500 42500 23500 80 -1
+De 0 0 6 0 0
+Po 0 36750 23500 36000 24250 80 -1
+De 0 0 6 0 0
+Po 0 42500 23500 36750 23500 80 -1
+De 0 0 6 0 0
+Po 0 43900 21600 43500 22000 80 -1
+De 0 0 6 0 800000
+Po 0 36000 27000 35500 27500 80 -1
+De 0 0 6 0 800000
+Po 0 36000 30000 36000 32000 80 -1
+De 0 0 6 0 0
+Po 0 36000 24250 36000 27000 80 -1
+De 0 0 6 0 0
+Po 0 38250 34000 36250 32000 80 -1
+De 0 0 6 0 400000
+Po 0 36250 32000 36000 32000 80 -1
+De 0 0 6 0 0
+Po 0 35500 29500 36000 30000 80 -1
+De 0 0 6 0 0
+Po 0 35500 27500 35500 29500 80 -1
+De 0 0 6 0 400000
+Po 0 43500 22000 43500 22500 80 -1
+De 0 0 6 0 400000
+Po 0 36000 32000 35000 33000 80 -1
+De 0 0 6 0 800000
+Po 0 31250 31250 31250 35250 80 -1
+De 0 0 7 0 0
+Po 0 31250 25750 31250 29750 80 -1
+De 0 0 7 0 0
+Po 0 31250 22000 31250 24250 80 -1
+De 0 0 7 0 0
+Po 0 32000 30500 31250 31250 80 -1
+De 0 0 7 0 0
+Po 0 31250 29750 32000 30500 80 -1
+De 0 0 7 0 0
+Po 0 44900 20000 44900 19900 80 -1
+De 0 0 7 0 400000
+Po 0 39500 19250 37500 21250 80 -1
+De 0 0 7 0 0
+Po 0 32000 25000 31250 25750 80 -1
+De 0 0 7 0 0
+Po 0 31250 24250 32000 25000 80 -1
+De 0 0 7 0 0
+Po 0 44900 19900 44250 19250 80 -1
+De 0 0 7 0 0
+Po 0 32000 21250 31250 22000 80 -1
+De 0 0 7 0 0
+Po 0 32000 25000 32500 25000 80 -1
+De 0 0 7 0 800000
+Po 0 44250 19250 39500 19250 80 -1
+De 0 0 7 0 0
+Po 0 37500 21250 32000 21250 80 -1
+De 0 0 7 0 0
+Po 0 31250 35250 32000 36000 80 -1
+De 0 0 7 0 800000
+Po 0 32000 30500 32500 30500 80 -1
+De 0 0 7 0 800000
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Po 0 46900 20000 46900 20900 80 -1
 De 0 0 8 0 400000
 Po 0 46900 20900 49500 23500 80 -1
 De 0 0 8 0 800000
 Po 0 49500 27500 51500 27500 80 -1
+<<<<<<< HEAD
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 De 0 0 9 0 400000
 Po 0 51500 27500 53500 25500 80 -1
 De 0 0 9 0 800000
@@ -2279,6 +2521,7 @@ Po 0 51500 24500 53500 22500 80 -1
 De 0 0 10 0 800000
 Po 0 51500 25500 51500 24500 80 -1
 De 0 0 10 0 400000
+<<<<<<< HEAD
 <<<<<<< HEAD
 Po 0 47500 22500 48500 23500 80 -1
 De 0 0 11 0 0
@@ -2292,12 +2535,19 @@ Po 0 48500 29500 52500 29500 80 -1
 =======
 Po 0 47500 22500 47500 25500 80 -1
 De 0 0 11 0 800000
+=======
+Po 0 47500 22500 47500 25500 80 -1
+De 0 0 11 0 800000
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 Po 0 45900 20900 47500 22500 80 -1
 De 0 0 11 0 0
 Po 0 45900 20000 45900 20900 80 -1
 De 0 0 11 0 400000
 Po 0 47500 29500 52500 29500 80 -1
+<<<<<<< HEAD
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 De 0 0 12 0 400000
 Po 0 52500 29500 53500 28500 80 -1
 De 0 0 12 0 800000
@@ -2316,6 +2566,7 @@ ZCorner 57500 39750 0
 ZCorner 57500 19250 0
 ZCorner 30750 19250 0
 ZCorner 30750 39750 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 $POLYSCORNERS
 41610 21298 0 0
@@ -5613,5 +5864,7 @@ $POLYSCORNERS
 $endPOLYSCORNERS
 =======
 >>>>>>> f0d4bbb9e8cd48bdd03acd4efda79e24b442b628
+=======
+>>>>>>> 013cef9aadb183d68b52dc39e82faa8238dbe1c5
 $endCZONE_OUTLINE
 $EndBOARD
