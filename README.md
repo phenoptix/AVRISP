@@ -1,13 +1,12 @@
 AVR ISP Shield for Arduino
 ===========================
-[![Mulitplexed LED Matrix](https://github.com/phenoptix/16x8SuperMatrix/blob/master/16x8SuperMatrix.jpg?raw=true)  
+[![AVR ISP Shield of Arduino](http://cdn.shopify.com/s/files/1/0187/3430/products/Built2_large.jpg)  
 AVR ISP Shield for Arduino](www.phenoptix.com/avrisp)
 
 This is an AVR ISP Shield for Arduino
 
 Repository Contents
 -------------------
-* **/Firmware** - Example C Code to work with this 
 * **/Hardware** - Kicad PCB layout files
 
 Version History
