@@ -1,6 +1,22 @@
-AVRISP
-======
+AVR ISP Shield for Arduino
+===========================
+[![Mulitplexed LED Matrix](https://github.com/phenoptix/16x8SuperMatrix/blob/master/16x8SuperMatrix.jpg?raw=true)  
+AVR ISP Shield for Arduino](www.phenoptix.com/avrisp)
 
-AVR ISP Shield for Arduino Project
-Designs and schematic are shared as Open Hardware under the CC BY-SA 3.0 Licence
-Use with impunity - just let people know it was designed or inspired by phenoptix.com somewhere on the board
+This is an AVR ISP Shield for Arduino
+
+Repository Contents
+-------------------
+* **/Firmware** - Example C Code to work with this 
+* **/Hardware** - Kicad PCB layout files
+
+Version History
+---------------
+* V0.1 Functions well for the ATTiny85 but seem to be having problems with the ATMega328 - working on it!
+
+
+License Information
+-------------------
+The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
+All other code is open source so please feel free to do anything you want with it; you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
+Also this boiler plate is yoinked from Sparkfun with thanks.
