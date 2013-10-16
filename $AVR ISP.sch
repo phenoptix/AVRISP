@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 30/09/2013 09:57:20
+EESchema Schematic File Version 2  date 16/10/2013 10:16:38
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,13 +30,15 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:arduino_shieldsNCL
+LIBS:phenoptix
+LIBS:AVR ISP-cache
 EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "30 sep 2013"
+Date "16 oct 2013"
 Rev ""
 Comp ""
 Comment1 ""

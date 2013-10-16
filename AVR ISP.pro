@@ -1,5 +1,10 @@
-update=04/09/2013 12:07:43
+update=30/09/2013 11:38:39
 last_client=pcbnew
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [eeschema]
 version=1
 LibDir=../Custom Kicad Modules
@@ -65,11 +70,8 @@ LibName30=valves
 LibName31=H:/Users/phenoptix/Documents/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shieldsNCL
 LibName32=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/arduino_shieldsNCL
 LibName33=arduino_shieldsNCL
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+LibName34=H:/Users/phenoptix/Documents/Dropbox/PCB Projects/KicadLibs/arduino_shieldsNCL
+LibName35=H:/Users/phenoptix/Documents/Dropbox/PCB Projects/KicadLibs/phenoptix
 [pcbnew]
 version=1
 PadDrlX=0
@@ -103,3 +105,7 @@ LibName11=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules
 LibName12=C:/Users/x/Dropbox/Projects and WIPs/PCB Projects/Custom Kicad Modules/phenoptix
 LibName13=H:/Users/phenoptix/Documents/Dropbox/Projects and WIPs/PCB Projects/KicadLibs/phenoptix
 LibName14=H:/Users/phenoptix/Documents/Dropbox/Projects and WIPs/PCB Projects/KiCad Logos/logoBigBackSilk (1)
+LibName15=H:/Users/phenoptix/Documents/Dropbox/PCB Projects/KicadLibs/phenoptix
+LibName16=H:/Users/phenoptix/Documents/Dropbox/PCB Projects/KicadLibs/arduino_shields
+LibName17=H:/Users/phenoptix/Documents/Dropbox/PCB Projects/KicadLibs/SOIC20
+LibName18=H:/Users/phenoptix/Documents/Dropbox/PCB Projects/KiCad Logos/logoBigBackSilk (1)

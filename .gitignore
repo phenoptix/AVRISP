@@ -7,7 +7,13 @@
 .metadata
 bin/
 tmp/
+Gerbers/
 *.zip
+*.cmp
+*.lst
+*.net
+*.lib
+*.MOD
 *.000
 *.tmp
 *.bak
