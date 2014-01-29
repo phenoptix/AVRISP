@@ -1,7 +1,7 @@
 AVR ISP Shield for Arduino
 ===========================
 [![AVR ISP Shield of Arduino](http://cdn.shopify.com/s/files/1/0187/3430/products/Built2_large.jpg)  
-AVR ISP Shield for Arduino](www.phenoptix.com/avrisp)
+AVR ISP Shield for Arduino](http://www.phenoptix.com/avrisp)
 
 This is an AVR ISP Shield for Arduino
 
