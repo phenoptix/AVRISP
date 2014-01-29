@@ -1,6 +1,6 @@
 AVR ISP Shield for Arduino
 ===========================
-[![AVR ISP Shield of Arduino](http://cdn.shopify.com/s/files/1/0187/3430/products/Built2_large.jpg)  
+[![AVR ISP Shield of Arduino](http://cdn.shopify.com/s/files/1/0187/3430/products/AVRISP19_large.jpg)  
 AVR ISP Shield for Arduino](http://www.phenoptix.com/avrisp)
 
 This is an AVR ISP Shield for Arduino
@@ -8,11 +8,12 @@ This is an AVR ISP Shield for Arduino
 Repository Contents
 -------------------
 * **/Hardware** - Kicad PCB layout files
+* **/Software** - Arduino Sketch for Using the Board
 
 Version History
 ---------------
 * V0.1 Functions well for the ATTiny85 but seem to be having problems with the ATMega328 - working on it!
-
+* V1.0 Fully working - has a rearrange from previous versions which avoids grounding on the USB connector on an Uno.
 
 License Information
 -------------------
