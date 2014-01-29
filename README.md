@@ -7,7 +7,7 @@ This is an AVR ISP Shield for Arduino
 
 Repository Contents
 -------------------
-* **/Hardware** - Kicad PCB layout files
+* **/Hardware** - Kicad PCB .pro .sch and .brb files and PDF of Schematic
 * **/Software** - Arduino Sketch for Using the Board
 
 Version History
